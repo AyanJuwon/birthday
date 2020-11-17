@@ -5,11 +5,21 @@ Highway Template
 https://templatemo.com/tm-520-highway
 
 */
-
+nav.home{
+  background-color: #333;
+}
+.link{
+  color:white;
+  text-decoration:none;
+  font-size: 36px;
+}
 body {
   font-family: "Kanit", sans-serif;
 }
-
+.index_body{
+  background-image: url('/img/MIMI/mimi\ \(2\).jpeg');
+  min-height:90vh;
+}
 body::-webkit-scrollbar {
   width: 8px;
   height: 8px;
